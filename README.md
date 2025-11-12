@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Yulia Chernyak  
+**💻 Full Stack Developer | Turning Ideas into Interactive Experiences**
 
-<!--
-**Yulia-C/Yulia-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a **curious and creative full stack developer** who loves bringing concepts to life through elegant and efficient web applications.  
+I enjoy working across the stack — from building intuitive, responsive interfaces to designing reliable server-side logic that scales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafting clean, maintainable, and well-tested code  
+- ⚙️ Building dynamic web apps with **React**, **Node.js**, and **MongoDB**  
+- 🌱 Constantly exploring new tools and best practices in modern web development  
+
+---
+
+## 🎯 Focus Areas
+- Full Stack JavaScript Development  
+- Modern Frontend Frameworks (React, Vue, Angular)  
+- RESTful APIs & Backend Architecture  
+- Real-Time Applications with WebSockets / Socket.io  
+- Clean UI/UX and responsive design principles  
+
+---
+
+## 📫 Get in Touch
+  <a href="mailto:yulka1355@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+
+  <a href="https://www.linkedin.com/in/yulia-chernyak-628211177/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,npm,redux,nodejs,express,mongodb,git,github,vite,figma" />
+</p>
