@@ -6,11 +6,6 @@
 ## 🚀 About Me
 I’m a **curious and creative full stack developer** who loves bringing concepts to life through elegant and efficient web applications.  
 I enjoy working across the stack — from building intuitive, responsive interfaces to designing reliable server-side logic that scales.
-
-- ✨ Crafting clean, maintainable, and well-tested code  
-- ⚙️ Building dynamic web apps with **React**, **Node.js**, and **MongoDB**  
-- 🌱 Constantly exploring new tools and best practices in modern web development  
-
 ---
 
 ## 🎯 Focus Areas
